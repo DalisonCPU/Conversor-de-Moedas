@@ -1,2 +1,5 @@
-# Conversor-de-Moedas
-Aula 1: Mergulhe em JavaScript com um Conversor de Moedas | Imersão Dev 7
+# Projeto feito usando como base a ideia 1 da imersão da Alura.
+
+## Observações:
+
+* Sou deficiente visual e pode ser que a estilização do mesmo esteja completamente bugada.
